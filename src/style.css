@@ -1,0 +1,18 @@
+h1, p {
+  font-family: Lato;
+}
+.myStyle{
+  text-decoration: line-through;
+  color:red;
+}
+.TodoStyles{
+  background-color: aquamarine;
+}
+.divcall{
+  margin: 9px;
+
+}
+h3.divcall{
+  color:red;
+
+}
